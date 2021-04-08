@@ -25,12 +25,11 @@ THEN that will be shown on the page, and added to their transaction history when
 # Installation
 
 Run Command Line, "npm install"
+Run Command Line, "node server.js"
 
 # Usage
 
 <img src = Pic1.png width=500>
-
-<img src = Pic2.png width=500>
 
 # License
 
